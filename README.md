@@ -1,4 +1,4 @@
-# RISC-V Bare Metal Programming Example
+# RISC-V assembly no libc example
 
 This repository contains an example of a simple RISC-V program written in assembly without using the C standard library (libc). The program demonstrates basic user interaction through system calls.
 
