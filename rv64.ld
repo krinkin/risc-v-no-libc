@@ -5,7 +5,7 @@ ENTRY(_start)
 PHDRS
 {
     text 	PT_LOAD FLAGS(5);      /* Read (1) + Execute (4) */
-    rodata 	PT_LOAD FLAGS(4);    /* Read (4) */
+    rodata 	PT_LOAD FLAGS(4);      /* Read (4) */
     data 	PT_LOAD FLAGS(6);      /* Read (2) + Write (4) */
 }
 
