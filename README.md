@@ -8,6 +8,7 @@ The project consists of three main files:
 - `main.s` - RISC-V assembly source code
 - `rv64.ld` - linker script
 - `Makefile` - build automation file
+- '06.RISC-V-assembly-intro.pdf' - slides from lecture
 
 ### Implementation Details
 
